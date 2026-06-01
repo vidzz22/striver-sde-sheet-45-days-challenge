@@ -1,8 +1,24 @@
 # Striver SDE Sheet - 45 Days Challenge (2026)
-Start Date - 1 June 2026
-Solving Striver's SDE Sheet daily for 45 days.
-Auto-synced via LeetHub.
+## 🎯 Goal
 
+- ✅ Solve all problems on Striver's SDE Sheet
+- ✅ Build a consistent GitHub contribution streak
+- ✅ Strengthen DSA fundamentals for interviews
+- ✅ Document clean, well-commented solutions
+
+---
+
+## 📅 Timeline
+
+| Detail | Info |
+|--------|------|
+| 🗓️ Start Date | June 1, 2026 |
+| 🏁 Target End | July 15, 2026 |
+| 🔢 Total Problems | ~180 |
+| 💻 Language | Python |
+| 🔗 Sheet Reference | [takeuforward.org](https://takeuforward.org/interviews/strivers-sde-sheet-top-coding-interview-problems/) |
+
+---
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
