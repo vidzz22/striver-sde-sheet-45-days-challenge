@@ -14,7 +14,7 @@
 |--------|------|
 | 🗓️ Start Date | June 1, 2026 |
 | 🏁 Target End | July 15, 2026 |
-| 🔢 Total Problems | ~180 |
+| 🔢 Total Problems | 191 |
 | 💻 Language | Python |
 | 🔗 Sheet Reference | [takeuforward.org](https://takeuforward.org/interviews/strivers-sde-sheet-top-coding-interview-problems/) |
 
