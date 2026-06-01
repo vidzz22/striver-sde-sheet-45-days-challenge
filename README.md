@@ -1,11 +1,6 @@
 # Striver SDE Sheet - 45 Days Challenge (2026)
 ## 🎯 Goal
-
-- ✅ Solve all problems on Striver's SDE Sheet
-- ✅ Build a consistent GitHub contribution streak
-- ✅ Strengthen DSA fundamentals for interviews
-- ✅ Document clean, well-commented solutions
-
+To systematically work through Striver's SDE Sheet and sharpen DSA fundamentals in python
 ---
 
 ## 📅 Timeline
