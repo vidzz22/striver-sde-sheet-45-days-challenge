@@ -29,6 +29,7 @@ To systematically work through Striver's SDE Sheet and sharpen DSA fundamentals 
 | [0088-merge-sorted-array](https://github.com/vidzz22/striver-sde-sheet-45-days-challenge/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/vidzz22/striver-sde-sheet-45-days-challenge/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vidzz22/striver-sde-sheet-45-days-challenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0169-majority-element](https://github.com/vidzz22/striver-sde-sheet-45-days-challenge/tree/master/0169-majority-element) |
 | [0287-find-the-duplicate-number](https://github.com/vidzz22/striver-sde-sheet-45-days-challenge/tree/master/0287-find-the-duplicate-number) |
 ## Dynamic Programming
 |  |
@@ -47,12 +48,14 @@ To systematically work through Striver's SDE Sheet and sharpen DSA fundamentals 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/vidzz22/striver-sde-sheet-45-days-challenge/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/vidzz22/striver-sde-sheet-45-days-challenge/tree/master/0169-majority-element) |
 ## Sorting
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/vidzz22/striver-sde-sheet-45-days-challenge/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/vidzz22/striver-sde-sheet-45-days-challenge/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/vidzz22/striver-sde-sheet-45-days-challenge/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/vidzz22/striver-sde-sheet-45-days-challenge/tree/master/0169-majority-element) |
 ## Math
 |  |
 | ------- |
@@ -76,4 +79,12 @@ To systematically work through Striver's SDE Sheet and sharpen DSA fundamentals 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/vidzz22/striver-sde-sheet-45-days-challenge/tree/master/0050-powx-n) |
+## Hash Table
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/vidzz22/striver-sde-sheet-45-days-challenge/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/vidzz22/striver-sde-sheet-45-days-challenge/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
