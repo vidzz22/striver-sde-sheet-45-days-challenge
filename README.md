@@ -23,6 +23,7 @@ To systematically work through Striver's SDE Sheet and sharpen DSA fundamentals 
 | [0031-next-permutation](https://github.com/vidzz22/striver-sde-sheet-45-days-challenge/tree/master/0031-next-permutation) |
 | [0048-rotate-image](https://github.com/vidzz22/striver-sde-sheet-45-days-challenge/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/vidzz22/striver-sde-sheet-45-days-challenge/tree/master/0053-maximum-subarray) |
+| [0056-merge-intervals](https://github.com/vidzz22/striver-sde-sheet-45-days-challenge/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/vidzz22/striver-sde-sheet-45-days-challenge/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/vidzz22/striver-sde-sheet-45-days-challenge/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vidzz22/striver-sde-sheet-45-days-challenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -44,6 +45,7 @@ To systematically work through Striver's SDE Sheet and sharpen DSA fundamentals 
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/vidzz22/striver-sde-sheet-45-days-challenge/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/vidzz22/striver-sde-sheet-45-days-challenge/tree/master/0075-sort-colors) |
 ## Math
 |  |
