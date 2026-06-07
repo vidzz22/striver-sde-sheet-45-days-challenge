@@ -57,6 +57,7 @@ To systematically work through Striver's SDE Sheet and sharpen DSA fundamentals 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/vidzz22/striver-sde-sheet-45-days-challenge/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/vidzz22/striver-sde-sheet-45-days-challenge/tree/master/0050-powx-n) |
 ## Matrix
 |  |
 | ------- |
@@ -71,4 +72,8 @@ To systematically work through Striver's SDE Sheet and sharpen DSA fundamentals 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/vidzz22/striver-sde-sheet-45-days-challenge/tree/master/0287-find-the-duplicate-number) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/vidzz22/striver-sde-sheet-45-days-challenge/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
