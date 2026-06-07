@@ -28,6 +28,7 @@ To systematically work through Striver's SDE Sheet and sharpen DSA fundamentals 
 | [0088-merge-sorted-array](https://github.com/vidzz22/striver-sde-sheet-45-days-challenge/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/vidzz22/striver-sde-sheet-45-days-challenge/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vidzz22/striver-sde-sheet-45-days-challenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0287-find-the-duplicate-number](https://github.com/vidzz22/striver-sde-sheet-45-days-challenge/tree/master/0287-find-the-duplicate-number) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -40,6 +41,7 @@ To systematically work through Striver's SDE Sheet and sharpen DSA fundamentals 
 | [0031-next-permutation](https://github.com/vidzz22/striver-sde-sheet-45-days-challenge/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/vidzz22/striver-sde-sheet-45-days-challenge/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/vidzz22/striver-sde-sheet-45-days-challenge/tree/master/0088-merge-sorted-array) |
+| [0287-find-the-duplicate-number](https://github.com/vidzz22/striver-sde-sheet-45-days-challenge/tree/master/0287-find-the-duplicate-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -58,4 +60,12 @@ To systematically work through Striver's SDE Sheet and sharpen DSA fundamentals 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/vidzz22/striver-sde-sheet-45-days-challenge/tree/master/0048-rotate-image) |
+## Binary Search
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/vidzz22/striver-sde-sheet-45-days-challenge/tree/master/0287-find-the-duplicate-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/vidzz22/striver-sde-sheet-45-days-challenge/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
